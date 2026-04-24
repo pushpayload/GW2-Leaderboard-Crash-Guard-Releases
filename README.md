@@ -3,4 +3,4 @@
 # GW2-Leaderboard-Crash-Guard-Releases
 Release only repo for the GW2-Leaderboard-Crash-Guard plugin that should stop you from crashing on LCM leaderboards.
 
-Download latest [here](https://github.com/pushpayload/GW2-Leaderboard-Crash-Guard-Releases/releases/latest)
+Download latest [here](https://github.com/pushpayload/GW2-Leaderboard-Crash-Guard-Releases/releases/latest/download/leaderboard_crash_guard.dll)
